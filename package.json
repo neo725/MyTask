@@ -1,0 +1,19 @@
+{
+  "name": "mytask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neo725/MyTask.git"
+  },
+  "author": "Neo Chang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neo725/MyTask/issues"
+  },
+  "homepage": "https://github.com/neo725/MyTask#readme"
+}

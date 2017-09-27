@@ -1,0 +1,16 @@
+.logo {
+    max-width: 32px;
+}
+
+.nav-bar {
+    position: relative;
+}
+
+.nav-wrapper .logo {
+    position: relative;
+    top: 5px;
+}
+
+.project-title-bar {
+    padding: 10px;
+}
